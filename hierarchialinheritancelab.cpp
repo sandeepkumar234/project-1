@@ -29,5 +29,6 @@ using namespace std;
 	obj1.fun2();
 	obj2.fun1();
 	obj2.fun3();
+	 //naman//
 	return 0;
 	}
